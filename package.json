@@ -1,0 +1,27 @@
+{
+  "name": "hackerrank-orchestrate-august26",
+  "version": "1.0.0",
+  "description": "Starter repository for the **HackerRank Orchestrate** 24-hour hackathon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interviewstreet/hackerrank-orchestrate-august26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/interviewstreet/hackerrank-orchestrate-august26/issues"
+  },
+  "homepage": "https://github.com/interviewstreet/hackerrank-orchestrate-august26#readme",
+  "dependencies": {
+    "@google/genai": "^2.15.0",
+    "csv-parser": "^3.2.1",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^17.4.2"
+  }
+}

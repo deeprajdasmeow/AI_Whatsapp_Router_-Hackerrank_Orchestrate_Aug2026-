@@ -1,0 +1,96 @@
+--- Message ID: msg_023 ---
+Decision: mute
+Reason: The message contains no text or relevant context to justify a notification or inclusion in a digest.
+
+--- Message ID: msg_091 ---
+Decision: mute
+Reason: The message contains no text or meaningful content, making it low-value noise.
+
+--- Message ID: msg_090 ---
+Decision: mute
+Reason: No message text or context was provided, making it low-value noise.
+
+--- Message ID: msg_048 ---
+Decision: mute
+Reason: The message contains no text or media content, providing no valuable or actionable information.
+
+--- Message ID: msg_040 ---
+Decision: mute
+Reason: The message contains no text or media content, making it low-value noise.
+
+--- Message ID: msg_075 ---
+Decision: mute
+Reason: The message contains no text or useful context, making it low-value noise.
+
+--- Message ID: msg_104 ---
+Decision: mute
+Reason: The message contains no text or meaningful content, rendering it low-value noise.
+
+--- Message ID: msg_107 ---
+Decision: mute
+Reason: The message contains no text content or actionable information, classifying it as low-value noise.
+
+--- Message ID: msg_070 ---
+Decision: digest
+Reason: The message originates from a marketplace group, which typically contains promotional updates or community deals that are useful but not urgent.
+
+--- Message ID: msg_003 ---
+Decision: mute
+Reason: The message contains no text or meaningful content, rendering it low-value noise.
+
+--- Message ID: msg_099 ---
+Decision: mute
+Reason: The message contains no text or useful information, classifying it as low-value noise.
+
+--- Message ID: msg_008 ---
+Decision: mute
+Reason: The message contains no text or actionable content, making it low-value noise.
+
+--- Message ID: msg_092 ---
+Decision: mute
+Reason: The message contains no text or relevant context, making it low-value noise.
+
+--- Message ID: msg_060 ---
+Decision: digest
+Reason: The message is from an official university faculty advising group, making it relevant community/academic updates, but without urgent text or direct mentions, it belongs in digest.
+
+--- Message ID: msg_030 ---
+Decision: digest
+Reason: Messages in marketplace groups are non-urgent community or promotional updates suitable for the daily digest.
+
+--- Message ID: msg_045 ---
+Decision: mute
+Reason: The message contains no text or relevant context, making it low-value noise that does not require notification or inclusion in a digest.
+
+--- Message ID: msg_052 ---
+Decision: mute
+Reason: The message contains no text or relevant context, making it low-value noise.
+
+--- Message ID: msg_009 ---
+Decision: mute
+Reason: The message contains no text or media content, making it low-value noise in a large group chat.
+
+--- Message ID: msg_071 ---
+Decision: mute
+Reason: The message contains no text or actionable content, classifying it as low-value noise within an extended family group.
+
+--- Message ID: msg_016 ---
+Decision: digest
+Reason: Marketplace group updates and promotional content from trusted brands are non-urgent and best summarized in a periodic digest.
+
+--- Message ID: msg_038 ---
+Decision: mute
+Reason: The message contains no text or actionable content, making it low-value noise.
+
+--- Message ID: msg_029 ---
+Decision: digest
+Reason: Marketplace group updates and promotional messages are non-urgent community updates suited for a periodic digest.
+
+--- Message ID: msg_023 ---
+Decision: mute
+Reason: The message contains no text or relevant context, making it low-value noise.
+
+--- Message ID: msg_048 ---
+Decision: digest
+Reason: Routine message from a society group without urgent alerts or direct mentions is categorized under community updates for digest.
+
